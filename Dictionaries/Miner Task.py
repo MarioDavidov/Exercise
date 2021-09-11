@@ -19,8 +19,8 @@ def minor_task(commands):
 
 minor_task(input())
 
-# You will be given sequences of strings, each on a new line, until you receive the command "stop".
-# Every odd line on the console is representing a resource (e.g. Gold, Silver, Copper, and so on) and every even - quantity.
-# Your task is to collect the resources and print them each on a new line.
-# Print the resources and their quantities in the following format:
+''''You will be given sequences of strings, each on a new line, until you receive the command "stop".
+    Every odd line on the console is representing a resource (e.g. Gold, Silver, Copper, and so on) and every even - quantity.
+    Your task is to collect the resources and print them each on a new line.
+    Print the resources and their quantities in the following format:'''''
 
