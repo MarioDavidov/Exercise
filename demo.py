@@ -1,18 +1,16 @@
-Gosho-C#-84
-Gosho-C#-3
-Gosho-C#-99
-Gosho-Python-3
-Gosho-Python-5
-Kiro-C#-94
-exam finished
+#Three lines to make our compiler able to draw:
+import sys
+import matplotlib
+matplotlib.use('Agg')
 
-''''for key, value in stud_points.items():
-    if value[0] == lang:
-        stud_points[name]'''''
+import matplotlib.pyplot as plt
+import numpy as np
 
-Pesho-Java-91
-Gosho-C#-84
-Kiro-Java-90
-Kiro-C#-50
-Kiro-banned
-exam finished
+y = np.array([35, 25, 25, 15])
+
+plt.pie(y)
+plt.show()
+
+#Two  lines to make our compiler able to draw:
+plt.savefig(sys.stdout.buffer)
+sys.stdout.flush()
