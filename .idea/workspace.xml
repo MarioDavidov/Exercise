@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3e5495d0-a25f-4603-be32-d11afccb94b1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Guild_system/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Guild_system/task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,19 +31,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EXAM_16_08_2020_OOP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\PC\PycharmProjects\PrivateStuff" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\PC\PycharmProjects\PrivateStuff\list" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\PycharmProjects\PrivateStuff\OOP" />
+      <recent name="C:\Users\PC\PycharmProjects\PrivateStuff" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.unit">
-    <configuration name="Player" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.table">
+    <configuration name="Exam Results" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PrivateStuff" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,12 +52,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Guilt system" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dictionaries" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Guilt system/Player.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionaries/Exam Results.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="album" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PrivateStuff" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,12 +74,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/spoopify" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Delivery" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/spoopify/album.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Delivery/Task.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="debug_task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="bread_factory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PrivateStuff" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,12 +96,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/spoopify" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/spoopify/debug_task.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list/bread_factory.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="unit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="outside_table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PrivateStuff" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,12 +140,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Guild_system" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Project/table" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Guild_system/unit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Project/table/outside_table.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="unit_tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PrivateStuff" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,12 +162,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Guilt system" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Project/table" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Guilt system/unit_tests.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Project/table/table.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.unit" />
-        <item itemvalue="Python.unit_tests" />
-        <item itemvalue="Python.Player" />
-        <item itemvalue="Python.debug_task" />
-        <item itemvalue="Python.album" />
+        <item itemvalue="Python.table" />
+        <item itemvalue="Python.Exam Results" />
+        <item itemvalue="Python.bread_factory" />
+        <item itemvalue="Python.outside_table" />
+        <item itemvalue="Python.Task" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +222,11 @@
       <workItem from="1633354344863" duration="4709000" />
       <workItem from="1633375878544" duration="177000" />
       <workItem from="1633450592273" duration="897000" />
-      <workItem from="1633451506044" duration="3606000" />
+      <workItem from="1633451506044" duration="4441000" />
+      <workItem from="1633506461382" duration="12405000" />
+      <workItem from="1633544611309" duration="311000" />
+      <workItem from="1633597080969" duration="30000" />
+      <workItem from="1633880228827" duration="1610000" />
     </task>
     <servers />
   </component>
@@ -228,46 +234,50 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1633508742284">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1633508742284" />
     <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1631116059628">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1631116059628" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1633454732685">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1633597109002">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1633454732685" />
-    <state width="1493" height="218" key="GridCell.Tab.0.bottom" timestamp="1633454785024">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1633597109002" />
+    <state width="1537" height="215" key="GridCell.Tab.0.bottom" timestamp="1633881843747">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1633454785024" />
-    <state width="1493" height="218" key="GridCell.Tab.0.center" timestamp="1633454785023">
+    <state width="1537" height="215" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1633881843747" />
+    <state width="1537" height="215" key="GridCell.Tab.0.center" timestamp="1633881843747">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="218" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1633454785023" />
-    <state width="1493" height="218" key="GridCell.Tab.0.left" timestamp="1633454785023">
+    <state width="1537" height="215" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1633881843747" />
+    <state width="1537" height="215" key="GridCell.Tab.0.left" timestamp="1633881843747">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="218" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1633454785023" />
-    <state width="1493" height="218" key="GridCell.Tab.0.right" timestamp="1633454785023">
+    <state width="1537" height="215" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1633881843747" />
+    <state width="1537" height="215" key="GridCell.Tab.0.right" timestamp="1633881843747">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="218" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1633454785023" />
-    <state width="1493" height="217" key="GridCell.Tab.1.bottom" timestamp="1633454565715">
+    <state width="1537" height="215" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1633881843747" />
+    <state width="1537" height="224" key="GridCell.Tab.1.bottom" timestamp="1633881733649">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="217" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1633454565715" />
-    <state width="1493" height="217" key="GridCell.Tab.1.center" timestamp="1633454565714">
+    <state width="1537" height="224" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1633881733649" />
+    <state width="1537" height="224" key="GridCell.Tab.1.center" timestamp="1633881733649">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="217" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1633454565714" />
-    <state width="1493" height="217" key="GridCell.Tab.1.left" timestamp="1633454565714">
+    <state width="1537" height="224" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1633881733649" />
+    <state width="1537" height="224" key="GridCell.Tab.1.left" timestamp="1633881733649">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="217" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1633454565714" />
-    <state width="1493" height="217" key="GridCell.Tab.1.right" timestamp="1633454565714">
+    <state width="1537" height="224" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1633881733649" />
+    <state width="1537" height="224" key="GridCell.Tab.1.right" timestamp="1633881733649">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="217" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1633454565714" />
+    <state width="1537" height="224" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1633881733649" />
     <state x="563" y="132" key="RollbackChangesDialog" timestamp="1630929754225">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -311,26 +321,43 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PrivateStuff$Miner_Task.coverage" NAME="Miner Task Coverage Results" MODIFIED="1631267892145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionaries" />
-    <SUITE FILE_PATH="coverage/PrivateStuff$Exam_Results.coverage" NAME="Exam Results Coverage Results" MODIFIED="1632222878728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionaries" />
-    <SUITE FILE_PATH="coverage/PrivateStuff$debug_task.coverage" NAME="debug_task Coverage Results" MODIFIED="1633361069656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/spoopify" />
-    <SUITE FILE_PATH="coverage/PrivateStuff$unit_tests.coverage" NAME="unit_tests Coverage Results" MODIFIED="1633451221472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/Guilt system" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$Unittests_for_test_Guild_TestGuild_test_assign_player.coverage" NAME="Unittests for test_Guild.TestGuild.test_assign_player Coverage Results" MODIFIED="1633512193230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/Guild_system/tests" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$Unittests_for_test_Guild_TestGuild_test_get_info_about_guild.coverage" NAME="Unittests for test_Guild.TestGuild.test_get_info_about_guild Coverage Results" MODIFIED="1633513610371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/Guild_system/tests" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$Exam_Results.coverage" NAME="Exam Results Coverage Results" MODIFIED="1633881817966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionaries" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$Unittests_for_test_TestPetShop_test_feed_pet_succ.coverage" NAME="Unittests for test.TestPetShop.test_feed_pet_succ Coverage Results" MODIFIED="1633516568742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/test/test" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1633515503539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/test/test" />
     <SUITE FILE_PATH="coverage/PrivateStuff$football.coverage" NAME="football Coverage Results" MODIFIED="1630941693136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
-    <SUITE FILE_PATH="coverage/PrivateStuff$unit.coverage" NAME="unit Coverage Results" MODIFIED="1633454785014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/Guild_system" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$pet_shop.coverage" NAME="pet_shop Coverage Results" MODIFIED="1633516649166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/test" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$unit.coverage" NAME="unit Coverage Results" MODIFIED="1633506928169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/Guild_system" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$Unittests_for_test_player_TestPlayer.coverage" NAME="Unittests for test_player.TestPlayer Coverage Results" MODIFIED="1633508579201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/Guild_system/tests" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$baked_food.coverage" NAME="baked_food Coverage Results" MODIFIED="1633531738711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/Project/baked_food" />
     <SUITE FILE_PATH="coverage/PrivateStuff$main.coverage" NAME="main Coverage Results" MODIFIED="1630746620563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PrivateStuff$multiple_list.coverage" NAME="multiple_list Coverage Results" MODIFIED="1630931214289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$Valentine_s_day.coverage" NAME="Valentine's day Coverage Results" MODIFIED="1631891602837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/List Advanced" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1632312908186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$cake.coverage" NAME="cake Coverage Results" MODIFIED="1633544729991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/Project/baked_food" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$Inventory.coverage" NAME="Inventory Coverage Results" MODIFIED="1631872801385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/List Advanced" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$Unittests_for_test_TestPetShop.coverage" NAME="Unittests for test.TestPetShop Coverage Results" MODIFIED="1633516790855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/test/test" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$Miner_Task.coverage" NAME="Miner Task Coverage Results" MODIFIED="1631267892145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionaries" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$Unittests_for_test_TestPetShop_test_feed_pet_with_less_quantity.coverage" NAME="Unittests for test.TestPetShop.test_feed_pet_with_less_quantity Coverage Results" MODIFIED="1633516469610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/test/test" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$bread.coverage" NAME="bread Coverage Results" MODIFIED="1633533072878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/Project/baked_food" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$Unittests_for_test_player_TestPlayer_test_setting_attr.coverage" NAME="Unittests for test_player.TestPlayer.test_setting_attr Coverage Results" MODIFIED="1633511836666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/Guild_system/tests" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$debug_task.coverage" NAME="debug_task Coverage Results" MODIFIED="1633361069656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/spoopify" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$unit_tests.coverage" NAME="unit_tests Coverage Results" MODIFIED="1633451221472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/Guilt system" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$Unittests_for_test_Guild_TestGuild.coverage" NAME="Unittests for test_Guild.TestGuild Coverage Results" MODIFIED="1633513601112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/Guild_system/tests" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$Unittests_for_test_Guild_TestGuild_test_default_guild_name.coverage" NAME="Unittests for test_Guild.TestGuild.test_default_guild_name Coverage Results" MODIFIED="1633508632816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/Guild_system/tests" />
     <SUITE FILE_PATH="coverage/PrivateStuff$Player.coverage" NAME="Player Coverage Results" MODIFIED="1633451162900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/Guilt system" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$table.coverage" NAME="table Coverage Results" MODIFIED="1633881327616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/Project/table" />
     <SUITE FILE_PATH="coverage/PrivateStuff$football__1_.coverage" NAME="football (1) Coverage Results" MODIFIED="1630941557957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PrivateStuff$song.coverage" NAME="song Coverage Results" MODIFIED="1632930959078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/spoopify" />
     <SUITE FILE_PATH="coverage/PrivateStuff$album.coverage" NAME="album Coverage Results" MODIFIED="1633360563948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/spoopify" />
-    <SUITE FILE_PATH="coverage/PrivateStuff$Valentine_s_day.coverage" NAME="Valentine's day Coverage Results" MODIFIED="1631891602837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/List Advanced" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$Unittests_for_test_TestPetShop_test_shop_info.coverage" NAME="Unittests for test.TestPetShop.test_shop_info Coverage Results" MODIFIED="1633516778166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/test/test" />
     <SUITE FILE_PATH="coverage/PrivateStuff$number_beggars.coverage" NAME="number_beggars Coverage Results" MODIFIED="1631116504810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
-    <SUITE FILE_PATH="coverage/PrivateStuff$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1632312908186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PrivateStuff$Inventory.coverage" NAME="Inventory Coverage Results" MODIFIED="1631872801385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/List Advanced" />
     <SUITE FILE_PATH="coverage/PrivateStuff$demo.coverage" NAME="demo Coverage Results" MODIFIED="1632493314112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PrivateStuff$task.coverage" NAME="task Coverage Results" MODIFIED="1630930541948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
     <SUITE FILE_PATH="coverage/PrivateStuff$easter_gifts.coverage" NAME="easter_gifts Coverage Results" MODIFIED="1631119465065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
-    <SUITE FILE_PATH="coverage/PrivateStuff$bread_factory.coverage" NAME="bread_factory Coverage Results" MODIFIED="1631202141029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
-    <SUITE FILE_PATH="coverage/PrivateStuff$Task.coverage" NAME="Task Coverage Results" MODIFIED="1632930024579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/Delivery" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$Task.coverage" NAME="Task Coverage Results" MODIFIED="1633544741921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/Delivery" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$outside_table.coverage" NAME="outside_table Coverage Results" MODIFIED="1633881803963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/Project/table" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$bread_factory.coverage" NAME="bread_factory Coverage Results" MODIFIED="1633881812288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
   </component>
 </project>
