@@ -63,18 +63,18 @@ class Table(ABC):
 
             return table_info
 
-
-tea = Tea('green', 2, 'doesitmatther')
-water = Water('vodabro', 3, 'devin')
-hlqb = Bread('zelen', 1)
-cake = Cake('bql', 2)
-
-table_one = Table(1, 5)
-table_one.reserve(5)
-table_one.order_drink(tea)
-table_one.order_drink(water)
-table_one.order_food(hlqb)
-table_one.order_food(cake)
-print(table_one.get_bill())
-table_one.clear()
-print(table_one.free_table_info())
+#
+# tea = Tea('green', 2, 'doesitmatther')
+# water = Water('vodabro', 3, 'devin')
+# hlqb = Bread('zelen', 1)
+# cake = Cake('bql', 2)
+#
+# table_one = Table(1, 5)
+# table_one.reserve(5)
+# table_one.order_drink(tea)
+# table_one.order_drink(water)
+# table_one.order_food(hlqb)
+# table_one.order_food(cake)
+# print(table_one.get_bill())
+# table_one.clear()
+# print(table_one.free_table_info())
