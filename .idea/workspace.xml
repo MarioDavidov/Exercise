@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3e5495d0-a25f-4603-be32-d11afccb94b1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List Advanced/decipher_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/List Advanced/decipher_code.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,29 @@
       <recent name="C:\Users\PC\PycharmProjects\PrivateStuff\list" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.decipher_code">
+  <component name="RunManager" selected="Python.A_very_big_sum">
+    <configuration name="A_very_big_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PrivateStuff" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank/warmup" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/warmup/A_very_big_sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="anapura" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PrivateStuff" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,50 +132,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="next_version" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PrivateStuff" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list/next_version.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="number_beggars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PrivateStuff" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list/number_beggars.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="office_charis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PrivateStuff" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,13 +154,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="zadaci_na_int" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PrivateStuff" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zadaci_na_int.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.A_very_big_sum" />
+        <item itemvalue="Python.zadaci_na_int" />
         <item itemvalue="Python.decipher_code" />
         <item itemvalue="Python.anapura" />
         <item itemvalue="Python.office_charis" />
-        <item itemvalue="Python.next_version" />
-        <item itemvalue="Python.number_beggars" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +253,10 @@
       <workItem from="1645374323079" duration="2385000" />
       <workItem from="1645457124711" duration="3913000" />
       <workItem from="1646410010004" duration="69000" />
-      <workItem from="1646410917356" duration="3587000" />
+      <workItem from="1646410917356" duration="3732000" />
+      <workItem from="1646476901901" duration="579000" />
+      <workItem from="1647704930954" duration="41000" />
+      <workItem from="1647704982739" duration="1571000" />
     </task>
     <servers />
   </component>
@@ -260,42 +264,42 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1644400268807">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1646477484522">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1644400268807" />
-    <state width="1493" height="163" key="GridCell.Tab.0.bottom" timestamp="1646414959692">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1646477484522" />
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom" timestamp="1647706557209">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="163" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1646414959692" />
-    <state width="1493" height="163" key="GridCell.Tab.0.center" timestamp="1646414959691">
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1647706557209" />
+    <state width="1493" height="195" key="GridCell.Tab.0.center" timestamp="1647706557209">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="163" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1646414959691" />
-    <state width="1493" height="163" key="GridCell.Tab.0.left" timestamp="1646414959691">
+    <state width="1493" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1647706557209" />
+    <state width="1493" height="195" key="GridCell.Tab.0.left" timestamp="1647706557209">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="163" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1646414959691" />
-    <state width="1493" height="163" key="GridCell.Tab.0.right" timestamp="1646414959692">
+    <state width="1493" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1647706557209" />
+    <state width="1493" height="195" key="GridCell.Tab.0.right" timestamp="1647706557209">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="163" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1646414959692" />
-    <state width="1493" height="163" key="GridCell.Tab.1.bottom" timestamp="1646414963867">
+    <state width="1493" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1647706557209" />
+    <state width="1493" height="215" key="GridCell.Tab.1.bottom" timestamp="1647705521676">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="163" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1646414963867" />
-    <state width="1493" height="163" key="GridCell.Tab.1.center" timestamp="1646414963867">
+    <state width="1493" height="215" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1647705521676" />
+    <state width="1493" height="215" key="GridCell.Tab.1.center" timestamp="1647705521676">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="163" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1646414963867" />
-    <state width="1493" height="163" key="GridCell.Tab.1.left" timestamp="1646414963866">
+    <state width="1493" height="215" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1647705521676" />
+    <state width="1493" height="215" key="GridCell.Tab.1.left" timestamp="1647705521676">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="163" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1646414963866" />
-    <state width="1493" height="163" key="GridCell.Tab.1.right" timestamp="1646414963867">
+    <state width="1493" height="215" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1647705521676" />
+    <state width="1493" height="215" key="GridCell.Tab.1.right" timestamp="1647705521676">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="163" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1646414963867" />
+    <state width="1493" height="215" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1647705521676" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1644328416408">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -328,11 +332,6 @@
           <line>35</line>
           <option name="timeStamp" value="48" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/List Advanced/decipher_code.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="72" />
-        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -360,6 +359,7 @@
     <SUITE FILE_PATH="coverage/PrivateStuff$multiple_list.coverage" NAME="multiple_list Coverage Results" MODIFIED="1630931214289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
     <SUITE FILE_PATH="coverage/PrivateStuff$Social_Distribution.coverage" NAME="Social_Distribution Coverage Results" MODIFIED="1636289241305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/List Advanced" />
     <SUITE FILE_PATH="coverage/PrivateStuff$Valentine_s_day.coverage" NAME="Valentine's day Coverage Results" MODIFIED="1631891602837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/List Advanced" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$A_very_big_sum.coverage" NAME="A_very_big_sum Coverage Results" MODIFIED="1647706557200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank/warmup" />
     <SUITE FILE_PATH="coverage/PrivateStuff$anapura.coverage" NAME="anapura Coverage Results" MODIFIED="1645461349051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/List Advanced" />
     <SUITE FILE_PATH="coverage/PrivateStuff$Unittests_for_test_TestPetShop_test_feed_pet_with_less_quantity.coverage" NAME="Unittests for test.TestPetShop.test_feed_pet_with_less_quantity Coverage Results" MODIFIED="1633516469610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/test/test" />
     <SUITE FILE_PATH="coverage/PrivateStuff$bread.coverage" NAME="bread Coverage Results" MODIFIED="1633533072878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/Project/baked_food" />
@@ -369,7 +369,7 @@
     <SUITE FILE_PATH="coverage/PrivateStuff$football__1_.coverage" NAME="football (1) Coverage Results" MODIFIED="1630941557957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PrivateStuff$song.coverage" NAME="song Coverage Results" MODIFIED="1632930959078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/spoopify" />
     <SUITE FILE_PATH="coverage/PrivateStuff$bakery.coverage" NAME="bakery Coverage Results" MODIFIED="1634035351843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/Project" />
-    <SUITE FILE_PATH="coverage/PrivateStuff$zadaci_na_int.coverage" NAME="zadaci_na_int Coverage Results" MODIFIED="1634711822018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$zadaci_na_int.coverage" NAME="zadaci_na_int Coverage Results" MODIFIED="1647705521659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PrivateStuff$task.coverage" NAME="task Coverage Results" MODIFIED="1630930541948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
     <SUITE FILE_PATH="coverage/PrivateStuff$Task.coverage" NAME="Task Coverage Results" MODIFIED="1633544741921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/Delivery" />
     <SUITE FILE_PATH="coverage/PrivateStuff$Unittests_for_test_Guild_TestGuild_test_assign_player.coverage" NAME="Unittests for test_Guild.TestGuild.test_assign_player Coverage Results" MODIFIED="1633512193230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/Guild_system/tests" />
@@ -382,7 +382,7 @@
     <SUITE FILE_PATH="coverage/PrivateStuff$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1632312908186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PrivateStuff$cake.coverage" NAME="cake Coverage Results" MODIFIED="1633544729991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/Project/baked_food" />
     <SUITE FILE_PATH="coverage/PrivateStuff$Inventory.coverage" NAME="Inventory Coverage Results" MODIFIED="1631872801385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/List Advanced" />
-    <SUITE FILE_PATH="coverage/PrivateStuff$decipher_code.coverage" NAME="decipher_code Coverage Results" MODIFIED="1646414959332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/List Advanced" />
+    <SUITE FILE_PATH="coverage/PrivateStuff$decipher_code.coverage" NAME="decipher_code Coverage Results" MODIFIED="1646477194757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/List Advanced" />
     <SUITE FILE_PATH="coverage/PrivateStuff$Unittests_for_test_TestPetShop.coverage" NAME="Unittests for test.TestPetShop Coverage Results" MODIFIED="1634372832832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/test/test" />
     <SUITE FILE_PATH="coverage/PrivateStuff$Miner_Task.coverage" NAME="Miner Task Coverage Results" MODIFIED="1631267892145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionaries" />
     <SUITE FILE_PATH="coverage/PrivateStuff$unit_tests.coverage" NAME="unit_tests Coverage Results" MODIFIED="1633451221472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/Guilt system" />
