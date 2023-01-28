@@ -9,7 +9,7 @@ class TestGuild(unittest.TestCase):
         self.assertEqual(guild.name, 'theguild')
 
     def test_assign_player(self):
-        player = Player('Mario', 50,50)
+        player = Player('Mario', 50, 50)
         guild_assign_player = Guild('assign')
 
         result1 = guild_assign_player.assign_player(player)
@@ -29,10 +29,9 @@ class TestGuild(unittest.TestCase):
         guild_assign_player = Guild('assign')
         guild_assign_player.assign_player(player)
         second_guild = Guild('assign_with_guild')
-        result1 =  second_guild.assign_player(player)
+        result1 = second_guild.assign_player(player)
         expected_result2 = 'Player Mario is in another guild.'
         self.assertEqual(result1, expected_result2)
-
 
     def test_kick_player(self):
         player = Player('Mario', 50, 50)
@@ -54,10 +53,10 @@ class TestGuild(unittest.TestCase):
         guild_assign_player.assign_player(player)
 
         result = guild_assign_player.guild_info()
-        expected_result =   f'Guild: assign\n' \
-                            f'Name: Mario\n' \
-                            f'Guild: assign\n' \
-                            f'HP: 50\n' \
-                            f'MP: 50\n' \
-                            f'== firecast - 500\n'
+        expected_result = f'Guild: assign\n' \
+                          f'Name: Mario\n' \
+                          f'Guild: assign\n' \
+                          f'HP: 50\n' \
+                          f'MP: 50\n' \
+                          f'== firecast - 500\n'
         self.assertEqual(result, expected_result)
